@@ -2,7 +2,7 @@
 ## If you want to run this project please follow the instruction
 
 After clene this project 
-- run `cpmoser update`
+- run `composer update`
 - run `npm install && npm run dev`
 - run `copy .env.example .env`
 - run `php artisan key:generate`
